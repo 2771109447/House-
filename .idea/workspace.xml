@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba212d1f-8ede-41b4-b6a2-0b8c25691701" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/house__$All_Features_in__controller.ic" NAME="All Features in: controller Coverage Results" MODIFIED="1565156616014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Mapper  File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="E:/Maven/apache-maven-3.6.0-bin/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="E:\Maven\apache-maven-3.6.0-bin\apache-maven-3.6.0\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1UHcKhW2S84gLaAxduAg98KZa73" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="web&#9;FILE&#9;file://E:/JavaEE(项目存储位置)/house(微服务)/api-gateway/src/main/java/com/smart/house/apigateway/common/Interceptor/WebMvcConf.java&#10;in&#9;FILE&#9;file://E:/JavaEE(项目存储位置)/house(微服务)/api-gateway/src/main/resources/templates/homepage/index.ftl&#10;comm&#9;FILE&#9;file://E:/JavaEE(项目存储位置)/house(微服务)/api-gateway/src/main/resources/templates/common/common.ftl&#10;ind&#9;FILE&#9;file://E:/JavaEE(项目存储位置)/house(微服务)/api-gateway/src/main/resources/templates/homepage/index.ftl&#10;index&#9;FILE&#9;file://E:/JavaEE(项目存储位置)/house(微服务)/api-gateway/src/main/java/com/smart/house/apigateway/controller/indexController.java&#10;det&#9;FILE&#9;file://E:/JavaEE(项目存储位置)/house(微服务)/api-gateway/src/main/resources/templates/blog/detail.ftl&#10;prof&#9;FILE&#9;file://E:/JavaEE(项目存储位置)/house(微服务)/api-gateway/src/main/resources/templates/user/accounts/profile.ftl&#10;f&#9;FILE&#9;file://E:/JavaEE(项目存储位置)/house(微服务)/api-gateway/src/main/resources/templates/user/accounts/profile.ftl&#10;index.ftl&#9;FILE&#9;file://E:/JavaEE(项目存储位置)/house(微服务)/api-gateway/src/main/resources/templates/homepage/index.ftl&#10;detail&#9;FILE&#9;file://E:/JavaEE(项目存储位置)/house(微服务)/api-gateway/src/main/resources/templates/house/detail.ftl&#10;HouseController&#9;FILE&#9;file://E:/JavaEE(项目存储位置)/house(微服务)/api-gateway/src/main/java/com/smart/house/apigateway/controller/HouseController.java&#10;detail.f&#9;FILE&#9;file://E:/JavaEE(项目存储位置)/house(微服务)/api-gateway/src/main/resources/templates/house/detail.ftl&#10;house&#9;FILE&#9;file://E:/JavaEE(项目存储位置)/house(微服务)/service-house/src/main/java/com/smart/house/servicehouse/controller/HouseController.java&#10;agen&#9;FILE&#9;file://E:/JavaEE(项目存储位置)/house(微服务)/api-gateway/src/main/java/com/smart/house/apigateway/controller/AgencyController.java&#10;houseContr&#9;PSI&#9;JAVA://com.smart.house.apigateway.controller.HouseController&#10;housed&#9;FILE&#9;file://E:/JavaEE(项目存储位置)/house(微服务)/api-gateway/src/main/java/com/smart/house/apigateway/dao/HouseDao.java&#10;agenc&#9;FILE&#9;file://E:/JavaEE(项目存储位置)/house(微服务)/api-gateway/src/main/java/com/smart/house/apigateway/controller/AgencyController.java&#10;users&#9;FILE&#9;file://E:/JavaEE(项目存储位置)/house(微服务)/service-user/src/main/java/com/smart/house/serviceuser/service/UserService.java&#10;userCon&#9;FILE&#9;file://E:/JavaEE(项目存储位置)/house(微服务)/service-user/src/main/java/com/smart/house/serviceuser/controller/UserController.java&#10;userController&#9;FILE&#9;file://E:/JavaEE(项目存储位置)/house(微服务)/service-user/src/main/java/com/smart/house/serviceuser/controller/UserController.java&#10;user&#9;FILE&#9;file://E:/JavaEE(项目存储位置)/house(微服务)/api-gateway/src/main/java/com/smart/house/apigateway/controller/UserController.java&#10;u&#9;FILE&#9;file://E:/JavaEE(项目存储位置)/house(微服务)/api-gateway/src/main/java/com/smart/house/apigateway/controller/UserController.java&#10;userC&#9;FILE&#9;file://E:/JavaEE(项目存储位置)/house(微服务)/api-gateway/src/main/java/com/smart/house/apigateway/controller/UserController.java" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565962854545" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.24799082" />
+    <property name="settings.editor.selected.configurable" value="nele.options" />
+  </component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.smart.house.servicecomment.model" />
+      <recent name="com.smart.house.servicecomment.model.otherService" />
+      <recent name="com.smart.house.apigateway.controller" />
+      <recent name="com.smart.house.apigateway.model" />
+      <recent name="com.smart.house.servicehouse.model" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\JavaEE(项目存储位置)\house(微服务)\api-gateway\src\main\resources\static\assets\img" />
+      <recent name="E:\JavaEE(项目存储位置)\house(微服务)\service-comment\src\main\java\com\smart\house\servicecomment\common" />
+      <recent name="E:\JavaEE(项目存储位置)\house(微服务)\api-gateway\src\main\java\com\smart\house\apigateway\model" />
+      <recent name="E:\JavaEE(项目存储位置)\house(微服务)\service-comment\src\main\java\com\smart\house\servicecomment\model" />
+      <recent name="E:\JavaEE(项目存储位置)\house(微服务)\service-house\src\main\java\com\smart\house\servicehouse\model" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ApiGatewayApplication">
+    <configuration name="All Features in: controller" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="3" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/api-gateway/src/main/java/com/smart/house/apigateway/controller" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="api-gateway" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm3SMFormatter" />
+      <option name="SUGGESTED_NAME" value="All Features in: controller" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApiGatewayApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="api-gateway" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.smart.house.apigateway.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.smart.house.apigateway.ApiGatewayApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eureka-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.smart.house.eurekaserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.smart.house.eurekaserver.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceCommentApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-comment" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.smart.house.servicecomment.ServiceCommentApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceHouseApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="service-house" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.smart.house.servicehouse.ServiceHouseApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServiceUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service-user" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.smart.house.serviceuser.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.smart.house.serviceuser.ServiceUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Cucumber java.All Features in: controller" />
+      <item itemvalue="Spring Boot.ServiceHouseApplication" />
+      <item itemvalue="Spring Boot.ServiceCommentApplication" />
+      <item itemvalue="Spring Boot.ApiGatewayApplication" />
+      <item itemvalue="Spring Boot.ServiceUserApplication" />
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ApiGatewayApplication" />
+        <item itemvalue="Spring Boot.EurekaServerApplication" />
+        <item itemvalue="Spring Boot.ServiceUserApplication" />
+        <item itemvalue="Cucumber java.All Features in: controller" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Running" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Spring Boot" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Not Started" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba212d1f-8ede-41b4-b6a2-0b8c25691701" name="Default Changelist" comment="" />
+      <created>1564843290150</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564843290150</updated>
+      <workItem from="1564843292323" duration="9293000" />
+      <workItem from="1564852689561" duration="7972000" />
+      <workItem from="1564982926330" duration="71359000" />
+      <workItem from="1565185050264" duration="90234000" />
+      <workItem from="1565405910305" duration="107314000" />
+      <workItem from="1566277307674" duration="616000" />
+      <workItem from="1568605000390" duration="45000" />
+      <workItem from="1568615033972" duration="758000" />
+      <workItem from="1571203951026" duration="1291000" />
+      <workItem from="1571972899631" duration="629000" />
+      <workItem from="1572592910822" duration="1210000" />
+      <workItem from="1575016742364" duration="31000" />
+      <workItem from="1575016922802" duration="2246000" />
+      <workItem from="1575119083547" duration="771000" />
+      <workItem from="1583385459125" duration="21000" />
+      <workItem from="1583385561851" duration="19000" />
+      <workItem from="1583387156655" duration="23000" />
+      <workItem from="1583387649596" duration="666000" />
+      <workItem from="1583388608354" duration="8041000" />
+      <workItem from="1584115029295" duration="3911000" />
+      <workItem from="1584621038055" duration="21980000" />
+      <workItem from="1589190888529" duration="736000" />
+      <workItem from="1589202070442" duration="37078000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1010" height="269" key="GridCell.Tab.0.bottom" timestamp="1589375326421">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1010" height="269" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589375326421" />
+    <state width="1010" height="269" key="GridCell.Tab.0.center" timestamp="1589375326420">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1010" height="269" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1589375326420" />
+    <state width="1010" height="269" key="GridCell.Tab.0.left" timestamp="1589375326420">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1010" height="269" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1589375326420" />
+    <state width="1010" height="269" key="GridCell.Tab.0.right" timestamp="1589375326421">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1010" height="269" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1589375326421" />
+    <state width="1010" height="269" key="GridCell.Tab.1.bottom" timestamp="1589375326423">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1010" height="269" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589375326423" />
+    <state width="1010" height="269" key="GridCell.Tab.1.center" timestamp="1589375326422">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1010" height="269" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1589375326422" />
+    <state width="1010" height="269" key="GridCell.Tab.1.left" timestamp="1589375326422">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1010" height="269" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1589375326422" />
+    <state width="1010" height="269" key="GridCell.Tab.1.right" timestamp="1589375326422">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1010" height="269" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1589375326422" />
+    <state width="1010" height="238" key="GridCell.Tab.2.bottom" timestamp="1589371905523">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1010" height="238" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1589371905523" />
+    <state width="1010" height="238" key="GridCell.Tab.2.center" timestamp="1589371905523">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1010" height="238" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1589371905523" />
+    <state width="1010" height="238" key="GridCell.Tab.2.left" timestamp="1589371905523">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1010" height="238" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1589371905523" />
+    <state width="1010" height="238" key="GridCell.Tab.2.right" timestamp="1589371905523">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1010" height="238" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1589371905523" />
+    <state x="153" y="0" key="SettingsEditor" timestamp="1589373892039">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="153" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1589373892039" />
+    <state x="626" y="244" key="com.intellij.ide.util.TipDialog" timestamp="1589202200599">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="626" y="244" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1589202200599" />
+    <state x="226" y="87" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1589370849142">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="226" y="87" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1589370849142" />
+    <state x="341" y="183" key="run.anything.popup" timestamp="1589337736520">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="341" y="183" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1589337736520" />
+    <state x="341" y="0" width="840" height="822" key="search.everywhere.popup" timestamp="1589374164704">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="341" y="0" width="840" height="822" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1589374164704" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/api-gateway/src/main/java/com/smart/house/apigateway/dao/UserDao.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint type="java-line">
+          <url>file://$PROJECT_DIR$/service-comment/src/main/java/com/smart/house/servicecomment/controller/BlogController.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.24799082" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.24799082" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.24799082" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.24799082" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>service-house</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.24799082" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.alibaba:druid:1.1.10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5924225" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

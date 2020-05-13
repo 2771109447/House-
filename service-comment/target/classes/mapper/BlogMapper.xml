@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.smart.house.servicecomment.dao.BlogDao">
+
+
+    <sql id="blogField">
+         id,tags ,content,create_time,title
+     </sql>
+    <!--查寻博客列表-->
+    <select id="selectBlogList" resultType="blog">
+        select <include refid="blogField"/>
+        from   blog a
+        <where>
+            <if test="blog.id != null   and blog.id != 0">
+                and id   = #{blog.id}
+            </if>
+        </where>
+        order by a.create_time desc
+        <if test='pageParams.offset != null and pageParams.limit != null'>
+            limit #{pageParams.offset}, #{pageParams.limit}
+        </if>
+        <if test='pageParams.offset == null and pageParams.limit != null'>
+            limit #{pageParams.limit}
+        </if>
+    </select>
+
+<!--查询博客总数-->
+    <select id="selectBlogCount" resultType="Integer">
+       select count(id)
+       from   blog a
+    </select>
+
+
+
+
+</mapper>

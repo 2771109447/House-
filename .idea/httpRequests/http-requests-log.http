@@ -1,0 +1,20 @@
+GET http://localhost:8085/{%20/error}
+
+###
+
+GET http://localhost:8083/{%20/user/login}
+
+###
+
+GET http://localhost:8085/{%20/user/Register}
+
+###
+
+GET http://localhost:8085/{%20/user/logout}
+
+###
+
+GET http://localhost:8085/{%20/user/logout}
+
+###
+

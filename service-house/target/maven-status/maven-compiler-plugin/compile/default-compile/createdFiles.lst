@@ -1,0 +1,17 @@
+com\smart\house\servicehouse\common\page\PageData.class
+com\smart\house\servicehouse\config\DruidConfig.class
+com\smart\house\servicehouse\service\HouseService.class
+com\smart\house\servicehouse\dao\HouseUserDao.class
+com\smart\house\servicehouse\model\Community.class
+com\smart\house\servicehouse\model\UserMsg.class
+com\smart\house\servicehouse\dao\HouseDao.class
+com\smart\house\servicehouse\controller\HouseController.class
+com\smart\house\servicehouse\common\page\Pagination.class
+com\smart\house\servicehouse\model\otherModel\HousePage.class
+com\smart\house\servicehouse\model\City.class
+com\smart\house\servicehouse\common\page\PageParams.class
+com\smart\house\servicehouse\ServiceHouseApplication.class
+com\smart\house\servicehouse\service\RecommendService.class
+com\smart\house\servicehouse\model\House.class
+com\smart\house\servicehouse\model\HouseUser.class
+com\smart\house\servicehouse\dao\CityDao.class

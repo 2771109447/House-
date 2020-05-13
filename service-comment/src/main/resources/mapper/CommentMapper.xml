@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.smart.house.servicecomment.dao.CommentDao">
+
+    <sql id="commentField">
+          id,
+		  content,
+		  house_id,
+		  create_time,
+		  blog_id,
+		  type,
+		  user_id
+   </sql>
+    <!--查询房产评论-->
+    <select id="selectHouseComments" resultType="comment">
+        select <include refid="commentField"/>
+        from   comment
+        where  type =1 and house_id = #{houseId}
+        order  by create_time desc
+        limit  #{size}
+    </select>
+    <!--查询博客评论-->
+    <select id="selectBlogComments" resultType="comment">
+        select <include refid="commentField"/>
+        from   comment
+        where  type = 2 and blog_id = #{blogId}
+        order  by create_time desc
+        limit  #{size}
+    </select>
+    <!--添加评论（1，房产，2，博客）-->
+    <insert id="addHouseComment">
+      insert into comment(
+				          content,
+						  house_id,
+						  create_time,
+						  blog_id,
+						  type,
+						  user_id)
+                  value(
+                       #{content},
+                       #{houseId},
+                       #{createTime},
+                       #{blogId},
+                       #{type},
+                       #{userId}
+                  )
+
+    </insert>
+</mapper>

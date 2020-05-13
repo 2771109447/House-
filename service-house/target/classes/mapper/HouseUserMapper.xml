@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="com.smart.house.servicehouse.dao.HouseUserDao">
+    <!--查询房产拥有者-->
+    <select id="selectHouseUser" resultType="houseUser">
+        select id,house_id,user_id,create_time,type
+        from house_user
+        <where>
+            <if test="id != null and id != 0">
+                and house_id = #{id}
+            </if>
+
+            <if test="userId != null and userId != ''">
+                and user_id = #{userId}
+            </if>
+            <if test="type != null and type != ''">
+                and type = #{type}
+            </if>
+        </where>
+    </select>
+    <!--添加用户留言-->
+    <insert id="addHouseMsg">
+     insert into user_msg (
+                     msg,
+                     create_time,
+                     user_name,
+                     house_id,
+                     agent_id
+                     )
+                     value(
+                      #{msg},
+                      #{createTime},
+                      #{userName},
+                      #{houseId},
+                      #{agentId}
+                     )
+    </insert>
+    <!--添加房产拥有者-->
+    <insert id="addHouseUser">
+        insert into house_user (
+                             house_id,
+                             user_id,
+                             create_time,
+                             type)
+                     value(
+                       #{houseId},
+                       #{userId},
+                       #{createTime},
+                       #{type}
+                     )
+
+      </insert>
+    <!--删除房产拥有者-->
+    <delete id="deleteHouseUser">
+     delete from house_user
+     where  house_id = #{houseId} and user_id=#{userId} and type = #{type}
+    </delete>
+
+</mapper>
